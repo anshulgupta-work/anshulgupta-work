@@ -117,7 +117,7 @@ My goal isn't just to build models or dashboards—it's to solve business proble
 
 ## 📫 Let's Connect
 
-📧 **Email:** <anshulgupta9937@gmail.com>
+📧 **Email:** <anshul.direct@gmail.com>
 
 💼 **LinkedIn:** [Anshul Gupta](https://www.linkedin.com/in/anshul-gupta-181b94214)
 
