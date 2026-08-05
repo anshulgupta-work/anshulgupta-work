@@ -121,7 +121,7 @@ My goal isn't just to build models or dashboards—it's to solve business proble
 
 💼 **LinkedIn:** [Anshul Gupta](https://www.linkedin.com/in/anshul-gupta-181b94214)
 
-⭐ **Portfolio:** [My Portfolio](https://portfolioianshul.lovable.app)
+⭐ **Portfolio:** [My Portfolio](https://portfolioianshul.lovable.app/)
 
 ---
 
