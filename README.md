@@ -117,16 +117,11 @@ My goal isn't just to build models or dashboards—it's to solve business proble
 
 ## 📫 Let's Connect
 
-📧 anshulgupta9937@gmail.com
+📧 **Email:** anshulgupta9937@gmail.com
 
-💼 LinkedIn
+💼 **LinkedIn:** <https://www.linkedin.com/in/anshul-gupta-181b94214>
 
-linkedin.com/in/anshul-gupta-181b94214
-
-⭐ Portfolio
-
-portfolianshul.lovable.app
-
+⭐ **Portfolio:** <https://portfolioianshul.lovable.app>
 ---
 
 > *"Data tells us what happened. Curiosity helps us understand why. Business insight helps us decide what to do next."*
